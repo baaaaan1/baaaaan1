@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<username>/<repo>/main/banner.png" alt="Banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://avatars.githubusercontent.com/u/baaaaan1?v=4" width="120" alt="baaaaan1's avatar">
 </p>
 
@@ -15,8 +11,8 @@ Curious about how things work—whether it’s code or circuits! I’m a passion
 - Building, debugging, and tinkering with all things electronic
 
 ## 🌟 Favorite Project
-- **Weather Dependent (maybe?)**  
-  I love experimenting with projects that respond to the world around us—especially those that bring weather data into the mix!
+- **Make a Tool That Helps the Technician's Work**  
+  I enjoy creating practical solutions and tools that make a technician's job easier, more efficient, and more enjoyable.
 
 ## 🌱 Fun Fact
 Exploring **fesnuk** is more interesting, right?  
