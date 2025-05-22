@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/baaaaan1?v=4" width="120" alt="baaaaan1's avatar">
-</p>
-
 # 👋 Hi, I’m baaaaan1!
 
 ## 💻 Software & Hardware Technician
