@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/baaaaan1?v=4" width="120" alt="baaaaan1's avatar">
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=00BFFF&center=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+baaaaan1!;Software+%26+Hardware+Technician" alt="Typing SVG">
 </h1>
@@ -49,19 +45,5 @@ I love creating practical solutions and smart tools that make a technician's job
   <img src="https://github-readme-stats.vercel.app/api?username=baaaaan1&show_icons=true&theme=github_dark" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baaaaan1&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baaaaan1&theme=github-compact" alt="Contribution Graph" />
 </p>
-
-<!-- Animation: Blinking caret effect -->
-<style>
-@keyframes blink {
-  0%, 100% { opacity: 1 }
-  50% { opacity: 0 }
-}
-.blink {
-  animation: blink 1s infinite;
-  font-weight: bold;
-  color: #00BFFF;
-}
-</style>
-<p align="center"><span class="blink">|</span></p>
