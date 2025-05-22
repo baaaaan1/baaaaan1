@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/<username>/<repo>/main/banner.png" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/baaaaan1?v=4" width="120" alt="baaaaan1's avatar">
 </p>
 
