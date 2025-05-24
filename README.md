@@ -4,12 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baaaaan1&theme=darkhub&margin-w=10&column=7" alt="baaaaan1 trophies" />
-</p>
-
----
-
 ## 💻 About Me
 
 🔧 **Technician on a mission!**  
