@@ -1,9 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=00BFFF&center=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+baaaaan1!;Software+%26+Hardware+Technician" alt="Typing SVG">
-</h1>
-
----
-
 ## 💻 About Me
 
 🔧 **Technician on a mission!**  
