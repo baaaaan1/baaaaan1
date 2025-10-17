@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=Hardware+%2B+Firmware+that+actually+works;Tools+for+technicians%2C+not+dust+collectors;Less+sparkles%2C+more+sparks+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220" alt="cat-coding">
-</p>
-
 <h1 align="center">baaaaan1 ✨</h1>
 <p align="center">I build small, useful hardware and the firmware that keeps it from melting down. <br/>If it needs a MOSFET, an ADC, or a grumpy PID, I’m interested.</p>
 
