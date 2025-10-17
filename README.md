@@ -3,7 +3,6 @@
   <img src="assets/fox_banner.gif" width="900" alt="baaaaan1 banner">
 </p>
 
-
 <!-- Optional corner icon -->
 <img src="assets/fox_pulse_icon_small.gif" width="120" align="right" alt="fox pulse icon">
 
