@@ -1,37 +1,35 @@
-## 💻 About Me
+# baaaaan1
 
-🔧 **Technician on a mission!**  
-Curious about how things work—whether it’s code or circuits!  
-I bridge the gap between software and hardware, specializing in:  
-- **C++ with Arduino Framework** for embedded systems  
-- Building, debugging, and tinkering with all things electronic
+I build small, useful hardware and the firmware that keeps it from catching fire.  
+If it needs a MOSFET, an ADC, or a PID yelling at it, I’m probably poking it.
 
 ---
 
-## 🌟 Favorite Project
+## What I work on
+- Soldering controllers (C210, T12) and hot-air 858 control
+- Bench-friendly PSUs, MOSFET drivers, current sensing (INA219)
+- Simple test jigs and internal dashboards that actually help technicians
 
-🛠️ **Make a Tool That Helps the Technician's Work**  
-I love creating practical solutions and smart tools that make a technician's job easier, more efficient, and more enjoyable.  
-<em>“Tools for techies, by a techie.”</em>
+## I speak these MCUs
+- ATmega328
+- STM32
+- ESP32
+- ESP8266
 
----
+## Software I use a lot
+- Arduino IDE · PlatformIO  
+- Proteus · Eagle PCB · DipTrace  
+- LightBurn · Vectric Aspire  
+- Serial/USART HMI (Nextion)
 
-## 🎵 Favorite Music
+## How I build
+- Practical > flashy  
+- Readable code, documented hardware, repeatable steps  
+- “Does it work?” first. “Is it pretty?” later.
 
-[![Play Imagine by John Lennon](https://img.shields.io/badge/Play-%F0%9F%8E%B5%20Imagine%20by%20John%20Lennon-green?style=for-the-badge)](https://www.youtube.com/watch?v=YkgkThdzX-8)
-
----
-
-## 🌱 Fun Fact
-
-🧭 Exploring **fesnuk** is more interesting, right?  
-<sub>(If you know, you know. 😉)</sub>
-
----
-
-## 📫 Connect with me
-
-<a href="https://t.me/RexNations">
+## Links
+- **Gravatar:** [baaaaan1.live](https://baaaaan1.live)
+- **Telegram:** <a href="https://t.me/RexNations">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
