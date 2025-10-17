@@ -1,43 +1,68 @@
-# baaaaan1
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=Hardware+%2B+Firmware+that+actually+works;Tools+for+technicians%2C+not+dust+collectors;Less+sparkles%2C+more+sparks+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
-I build small, useful hardware and the firmware that keeps it from catching fire.  
-If it needs a MOSFET, an ADC, or a PID yelling at it, I’m probably poking it.
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220" alt="cat-coding">
+</p>
+
+<h1 align="center">baaaaan1 ✨</h1>
+<p align="center">I build small, useful hardware and the firmware that keeps it from melting down. <br/>If it needs a MOSFET, an ADC, or a grumpy PID, I’m interested.</p>
 
 ---
 
-## What I work on
-- Soldering controllers (C210, T12) and hot-air 858 control
-- Bench-friendly PSUs, MOSFET drivers, current sensing (INA219)
-- Simple test jigs and internal dashboards that actually help technicians
+### ⚙️ What I work on
+- 🔥 Soldering controllers (C210, T12) and 858 hot-air control
+- 🔌 Bench PSUs, MOSFET drivers, current sensing (INA219)
+- 🧪 Simple test jigs and tiny internal dashboards for real-world workflows
 
-## I speak these MCUs
-- ATmega328
-- STM32
-- ESP32
-- ESP8266
+### 🧠 I speak these MCUs
+<p>
+  <img src="https://img.shields.io/badge/ATmega328-00979D?logo=arduino&logoColor=white&labelColor=555" />
+  <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&labelColor=555" />
+  <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white&labelColor=555" />
+  <img src="https://img.shields.io/badge/ESP8266-000000?logo=espressif&logoColor=white&labelColor=555" />
+</p>
 
-## Software I use a lot
-- Arduino IDE · PlatformIO  
-- Proteus · Eagle PCB · DipTrace  
-- LightBurn · Vectric Aspire  
-- Serial/USART HMI (Nextion)
+### 🛠️ Software I actually use
+<p>
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?logo=platformio&logoColor=white&labelColor=555" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?logo=arduino&logoColor=white&labelColor=555" />
+  <img src="https://img.shields.io/badge/Proteus-2F4892?labelColor=555" />
+  <img src="https://img.shields.io/badge/Eagle%20PCB-CC0000?logo=autodesk&logoColor=white&labelColor=555" />
+  <img src="https://img.shields.io/badge/DipTrace-1C7C54?labelColor=555" />
+  <img src="https://img.shields.io/badge/LightBurn-E84D4F?labelColor=555" />
+  <img src="https://img.shields.io/badge/Vectric%20Aspire-4B6F44?labelColor=555" />
+  <img src="https://img.shields.io/badge/Nextion%20HMI-006699?labelColor=555" />
+</p>
 
-## How I build
-- Practical > flashy  
-- Readable code, documented hardware, repeatable steps  
-- “Does it work?” first. “Is it pretty?” later.
+### 📐 Build rules (so things don’t explode)
+- ✅ Practical first, pretty later  
+- 🧾 Readable code, documented hardware, repeatable steps  
+- 🧯 Overshoot is illegal, stability is king
 
-## Links
-- **Gravatar:** [baaaaan1.live](https://baaaaan1.live)
-- **Telegram:** <a href="https://t.me/RexNations">
+---
+
+### 🔗 Links
+- 🌐 **Gravatar / site:** **[baaaaan1.live](https://baaaaan1.live)**
+- 💬 **Telegram:** <a href="https://t.me/RexNations">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baaaaan1&show_icons=true&theme=github_dark" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=baaaaan1&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baaaaan1&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baaaaan1&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baaaaan1&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<!-- tiny footer gif so it feels alive -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" alt="blink-blink">
 </p>
