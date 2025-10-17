@@ -1,3 +1,13 @@
+<!-- Header -->
+<p align="center">
+  <img src="assets/fox_banner.gif" width="900" alt="baaaaan1 banner">
+</p>
+
+
+<!-- Optional corner icon -->
+<img src="assets/fox_pulse_icon_small.gif" width="120" align="right" alt="fox pulse icon">
+
+
 <h1 align="center">baaaaan1 ✨</h1>
 <p align="center">I build small, useful hardware and the firmware that keeps it from melting down. <br/>If it needs a MOSFET, an ADC, or a grumpy PID, I’m interested.</p>
 
