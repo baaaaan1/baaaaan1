@@ -1,8 +1,3 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=Hardware+%2B+Firmware+that+actually+works;Tools+for+technicians%2C+not+dust+collectors;Less+sparkles%2C+more+sparks+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
-
 <h1 align="center">baaaaan1 ✨</h1>
 <p align="center">I build small, useful hardware and the firmware that keeps it from melting down. <br/>If it needs a MOSFET, an ADC, or a grumpy PID, I’m interested.</p>
 
@@ -15,7 +10,7 @@
 
 ### 🧠 I speak these MCUs
 <p>
-  <img src="https://img.shields.io/badge/ATmega328-00979D?logo=arduino&logoColor=white&labelColor=555" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&labelColor=555" />
   <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&labelColor=555" />
   <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white&labelColor=555" />
   <img src="https://img.shields.io/badge/ESP8266-000000?logo=espressif&logoColor=white&labelColor=555" />
@@ -56,9 +51,4 @@
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=baaaaan1&theme=github-compact&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<!-- tiny footer gif so it feels alive -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" alt="blink-blink">
 </p>
