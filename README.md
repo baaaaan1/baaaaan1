@@ -1,12 +1,14 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 <h1 align="center">baaaaan1 ✨</h1>
-<p align="center">I build small, useful hardware and the firmware that keeps it from melting down. <br/>If it needs a MOSFET, an ADC, or a grumpy PID, I’m interested.</p>
+<p align="center">I like electronics and programming where software and hardware complement each other.</p>
 
 ---
 
 ### ⚙️ What I work on
-- 🔥 Soldering controllers (C210, T12) and 858 hot-air control
-- 🔌 Bench PSUs, MOSFET drivers, current sensing (INA219)
-- 🧪 Simple test jigs and tiny internal dashboards for real-world workflows
+- 🔥 Some technician equipment
 
 ### 🧠 I speak these MCUs
 <p>
@@ -29,9 +31,7 @@
 </p>
 
 ### 📐 Build rules (so things don’t explode)
-- ✅ Practical first, pretty later  
-- 🧾 Readable code, documented hardware, repeatable steps  
-- 🧯 Overshoot is illegal, stability is king
+- ✅ Can walk
 
 ---
 
@@ -43,12 +43,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=baaaaan1&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baaaaan1&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baaaaan1&theme=github-compact&hide_border=true" alt="Contribution Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baaaaan1/baaaaan1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baaaaan1/baaaaan1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/baaaaan1/baaaaan1/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baaaaan1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baaaaan1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
