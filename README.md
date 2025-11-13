@@ -31,7 +31,7 @@
 </p>
 
 ### 📐 Build rules (so things don’t explode)
-- ✅ Can walk
+- ✅ Can running
 
 ---
 
