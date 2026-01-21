@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=header&text=&animation=fadeIn" style="width:100%;" />
 </div>
 
+<br>
+  
 <p align="center">
   <b>Embedded R&D • CO2 Laser Specialist • Vertical Engineer</b>
 </p>
