@@ -70,11 +70,3 @@ Connecting the device to the user.
   <img src="https://github-readme-stats-fast.vercel.app/api?username=baaaaan1&show_icons=true&theme=omni&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baaaaan1&theme=omni" height="150" alt="languages graph" />
 </div>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baaaaan1/baaaaan1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baaaaan1/baaaaan1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/baaaaan1/baaaaan1/output/pacman-contribution-graph.svg">
-</picture>
