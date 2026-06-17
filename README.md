@@ -68,5 +68,5 @@ Connecting the device to the user.
 
 <div align="center">
   <img src="https://github-readme-stats-bice-one-ovbumip4ii.vercel.app/api?username=baaaaan1&show_icons=true&theme=omni&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baaaaan1&theme=omni" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-bice-one-ovbumip4ii.vercel.app/api/top-langs?username=baaaaan1&theme=omni&hide_border=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 </div>
