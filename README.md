@@ -1,16 +1,18 @@
-<div align="center">
+<div align="left">
 
-# Hi, I'm baaaaan1
+**Hi, I'm baaaaan1**
 
-### Embedded Systems · Electronics · Hardware–Software Integration
+### Embedded Systems & Electronic Product Development
 
-I build practical electronic products—from circuits and PCB prototypes to embedded firmware, control systems, and desktop tools for connected hardware.
+I turn circuit designs into working products, combining PCB development, embedded firmware, and control systems with desktop and web software.
 
 <p>
-  <a href="https://maps.google.com/?q=Blitar,Indonesia"><img alt="Location: Blitar, Indonesia" src="https://img.shields.io/badge/Blitar-Indonesia-0A66C2?style=flat-square"></a>
-  <a href="https://github.com/ABToolkit"><img alt="ABToolkit" src="https://img.shields.io/badge/ABToolkit-Organization-181717?style=flat-square&amp;logo=github"></a>
-  <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20Work-Freelance%20%7C%20Remote%20%7C%20Onsite-2EA44F?style=flat-square">
+  <a href="https://maps.google.com/?q=Blitar,Indonesia">Blitar, Indonesia</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/ABToolkit">ABToolkit</a>
 </p>
+
+<img alt="Open to Collab / Freelance" src="https://img.shields.io/badge/Open%20to-Collab%20%2F%20Freelance-2EA44F?style=flat-square">
 
 </div>
 
@@ -18,9 +20,7 @@ I build practical electronic products—from circuits and PCB prototypes to embe
 
 ## Core Skills & Engineering Stack
 
-### Embedded Platforms & Firmware
-
-Developing reliable firmware for STM32, ESP32, and AVR/Arduino platforms—from peripheral setup and device drivers to non-blocking application logic and persistent configuration.
+### Embedded Firmware & Control
 
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black">
@@ -28,75 +28,36 @@ Developing reliable firmware for STM32, ESP32, and AVR/Arduino platforms—from 
   <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=flat-square&amp;logo=stmicroelectronics&amp;logoColor=white">
   <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&amp;logo=espressif&amp;logoColor=white">
   <img alt="AVR and Arduino" src="https://img.shields.io/badge/AVR%20%2F%20Arduino-00878F?style=flat-square&amp;logo=arduino&amp;logoColor=white">
-  <img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&amp;logo=platformio&amp;logoColor=white">
-  <img alt="STM32CubeIDE" src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&amp;logo=stmicroelectronics&amp;logoColor=white">
-</p>
-
-### Control Systems & Signal Processing
-
-Designing temperature and power-control firmware with PI/PID control, gain scheduling, anti-windup, derivative filtering, quiet-window ADC sampling, digital filters, and runtime safety supervision.
-
-<p>
-  <img alt="PI and PID Control" src="https://img.shields.io/badge/PI%20%2F%20PID-Control-7E57C2?style=flat-square">
-  <img alt="ADC Sampling" src="https://img.shields.io/badge/ADC-Sampling-3949AB?style=flat-square">
-  <img alt="Digital Filtering" src="https://img.shields.io/badge/Digital-Filtering-5C6BC0?style=flat-square">
-  <img alt="State Machines" src="https://img.shields.io/badge/State-Machines-00897B?style=flat-square">
-  <img alt="Burst Fire Control" src="https://img.shields.io/badge/Burst--Fire-Control-E65100?style=flat-square">
-  <img alt="Safety Monitoring" src="https://img.shields.io/badge/Safety-Monitoring-C62828?style=flat-square">
 </p>
 
 ### Electronics, PCB & Prototyping
 
-Working from schematic and circuit design through PCB layout, simulation, assembly, calibration, and prototype testing—including sensor front ends, heater drivers, relay protection, and power-control stages.
-
 <p>
   <img alt="EasyEDA" src="https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square&amp;logo=easyeda&amp;logoColor=white">
-  <img alt="Eagle PCB" src="https://img.shields.io/badge/Eagle-PCB-CC0000?style=flat-square&amp;logo=autodesk&amp;logoColor=white">
-  <img alt="DipTrace" src="https://img.shields.io/badge/DipTrace-PCB-1C7C54?style=flat-square">
-  <img alt="Proteus" src="https://img.shields.io/badge/Proteus-Simulation-2F4892?style=flat-square">
-  <img alt="Sensor Interfaces" src="https://img.shields.io/badge/Sensor-Interfaces-00897B?style=flat-square">
-  <img alt="Hardware Prototyping" src="https://img.shields.io/badge/Hardware-Prototyping-E65100?style=flat-square">
-</p>
-
-### Device Interfaces & Communication
-
-Integrating embedded devices with displays, storage, sensors, and diagnostic interfaces using I2C, UART/USART, USB CDC, external EEPROM, LCD modules, and Nextion HMI.
-
-<p>
-  <img alt="I2C" src="https://img.shields.io/badge/I2C-5C6BC0?style=flat-square">
-  <img alt="UART and USART" src="https://img.shields.io/badge/UART%20%2F%20USART-7E57C2?style=flat-square">
-  <img alt="USB CDC" src="https://img.shields.io/badge/USB-CDC-3949AB?style=flat-square&amp;logo=usb&amp;logoColor=white">
-  <img alt="External EEPROM" src="https://img.shields.io/badge/External-EEPROM-455A64?style=flat-square">
-  <img alt="LCD" src="https://img.shields.io/badge/LCD-Interfaces-00796B?style=flat-square">
-  <img alt="Nextion HMI" src="https://img.shields.io/badge/Nextion-HMI-0288D1?style=flat-square">
+  <img alt="Proteus EDA" src="https://img.shields.io/badge/Proteus-EDA-2F4892?style=flat-square">
 </p>
 
 ### Desktop, Web & Automation
 
-Building supporting software that connects users to hardware: desktop diagnostic tools, serial-port utilities, device interfaces, web applications, and lightweight automation.
-
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
   <img alt="PySide6" src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&amp;logo=qt&amp;logoColor=white">
+  <img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&amp;logo=qt&amp;logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white">
   <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&amp;logo=svelte&amp;logoColor=white">
-  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&amp;logo=tauri&amp;logoColor=black">
   <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&amp;logo=astro&amp;logoColor=white">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white">
 </p>
 
 ### Product R&D & Workshop
 
-Taking products through planning, prototyping, integration, validation, troubleshooting, and iterative improvement. Also experienced with CO₂ laser CNC operation, setup, optics alignment, basic maintenance, and production workflows.
 
 <p>
-  <img alt="Product Research and Development" src="https://img.shields.io/badge/Product-R%26D-1F6FEB?style=flat-square">
-  <img alt="Testing and Calibration" src="https://img.shields.io/badge/Testing%20%26-Calibration-00897B?style=flat-square">
-  <img alt="CO2 Laser CNC" src="https://img.shields.io/badge/CO%E2%82%82%20Laser-CNC-C62828?style=flat-square">
   <img alt="LightBurn" src="https://img.shields.io/badge/LightBurn-E84D4F?style=flat-square">
   <img alt="Vectric Aspire" src="https://img.shields.io/badge/Vectric-Aspire-4B6F44?style=flat-square">
   <img alt="Ruida Controller" src="https://img.shields.io/badge/Ruida-Controller-FF6600?style=flat-square">
+  <img alt="Nextion HMI" src="https://img.shields.io/badge/Nextion-HMI-0288D1?style=flat-square">
 </p>
 
 ---
@@ -141,17 +102,34 @@ Taking products through planning, prototyping, integration, validation, troubles
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <p><strong><code>SerMon</code></strong>&nbsp; <img alt="Private" src="https://img.shields.io/badge/Private-6B7280?style=flat-square"></p>
       <p>Windows serial-port monitor with a focused desktop interface for inspecting, logging, and diagnosing communication with embedded devices.</p>
       <p><sub><code>Python</code> · <code>PySide6</code> · <code>pyserial</code> · <code>Desktop UI</code></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><a href="https://github.com/baaaaan1/Playgrounds"><strong>Playgrounds</strong></a>&nbsp; <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-2EA44F?style=flat-square"></p>
+      <p>Windows desktop AI playground with OpenAI-compatible endpoints, SSE streaming, configurable connection profiles, model discovery, local conversation history, and API key storage in Windows Credential Manager.</p>
+      <p><sub><code>Python</code> · <code>PyQt6</code> · <code>SSE</code> · <code>PyInstaller</code> · <code>WiX Toolset</code></sub></p>
     </td>
   </tr>
 </table>
 
 ---
 
-<div align="center">
+## Community Membership
+
+<p align="left">
+  <a href="https://imphnen.dev/sertifikat/baaaaan1"><img alt="IMPHNEN community membership certificate, 2026" src="assets/sertifikat-baaaaan1.png" width="560"></a>
+</p>
+
+<p align="left">
+  <sub>IMPHNEN member since November 7, 2026. Click the certificate to verify membership.</sub>
+</p>
+
+---
+
+<div align="left">
 
 ### Let's Build Something Useful
 
